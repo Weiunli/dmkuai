@@ -35,7 +35,7 @@ _**FAS Monitor_通用版本**_
 
 **每次监测异常均会写入日志 日志手动查看命令**`cat/root/fas`
 
- **脚本使用**   `wget https://gitee.com/zy143l/dmg/raw/master/fas;bash fas`
+ **脚本使用**   `wget https://github.com/yunli520/dmkuai/raw/master/fas;bash fas`
 
 ----
 
